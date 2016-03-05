@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+	<poem>
+		<a id='23' type="hh">Roses are Red</a>
+		<b>Roses are red,</b>
+		<c id='23'>Violets are blue;</c>
+		<d>Sugar is sweet,</d>
+		<e>And I love you.</e>
+	</poem>
